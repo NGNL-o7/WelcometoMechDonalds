@@ -1,0 +1,25 @@
+header {
+    margin-top: 64px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(1, 61, 21);
+  }
+.div {
+    font-size: 64px;
+    margin-bottom: 32px;
+  }
+  .colored-button {
+    padding: 24px;
+    border: none;
+    background-color: rgb(81, 255, 133)
+  }
+.colored-button:hover {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    cursor: pointer;
+  }
+  body {
+    text-align: center;
+    font-family: monospace;
+    background-image: url('');
+    background-size: auto;
+  }

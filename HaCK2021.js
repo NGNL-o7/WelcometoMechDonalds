@@ -1,0 +1,1 @@
+const Div1 = document.getElementById('div1');
