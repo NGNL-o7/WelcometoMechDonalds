@@ -1,1 +1,4 @@
-const Div1 = document.getElementById('div1');
+function DarkMode() {
+    var element = document.body;
+    element.classList.toggle("darkmode");
+  }
